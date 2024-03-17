@@ -5,14 +5,15 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato curioso: Rui é apenas um apelido, e tenho um gato chamado Bruno!
 
-
 <div align="center">
-  <a href="https://github.com/christian-rui">
-    <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=christian-rui&locale=pt-br&theme=tokyonight&show_icons=true&card_width=460" />  
-  </a>
-  <a href="https://github.com/christian-rui">
-    <img style="height: auto; width: 47%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-rui&locale=pt-br&theme=tokyonight&layout=compact&langs_count=6&card_width=310" />
-  </a>
+  <div>
+    <a href="https://github.com/christian-rui">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=christian-rui&locale=pt-br&theme=tokyonight&show_icons=true&card_width=460" />  
+    </a>
+    <a href="https://github.com/christian-rui">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-rui&locale=pt-br&theme=tokyonight&layout=compact&langs_count=6&card_width=310" />
+    </a>
+  </div>
 </div>
 
 
