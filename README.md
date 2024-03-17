@@ -1,8 +1,10 @@
 ## Olá, eu sou Christian Rui 🐻  
 
-- 🌱 Estou atualmente aprendendo HTML, CSS e JavaScript
+- 🌱 Atualmente aprendendo HTML, CSS e JavaScript
+- 🎓Graduado em Tecnologia em Jogos Digitais
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato curioso: Rui é apenas um apelido, e tenho um gato chamado Bruno!
+
 
 <div align="center">
   <a href="https://github.com/christian-rui">
@@ -20,6 +22,7 @@
   <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
   <img align="center" alt="Chris-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="Chris-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" />         
   <img align="center" alt="Chris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Chris-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <img align="center" alt="Chris-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />    
