@@ -32,8 +32,9 @@
   <img align="center" alt="Chris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Chris-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <img align="center" alt="Chris-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Chris-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 </div>
-
+          
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=120&section=footer"/>
 
 ##
