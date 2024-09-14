@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!🐻;)](https://git.io/typing-svg)
 
 - 🌱 Atualmente aprendendo sobre desenvolvimento web
-- 🎓 Graduado em Tecnologia em Jogos Digitais
-- 😄 Pronomes: Ele/Dele
-- 🧑‍💻Atualmente atuando como Desenvolvedor Full Stack no Projeto Buildar
-- ⚡ Fato curioso: Rui é apenas um apelido, e tenho um gato chamado Bruno!
+- 🎓 Tecnologo em Jogos Digitais
+- 🧑‍💻Desenvolvedor Full Stack no projeto Buildar
+- ⚡ Fato curioso: Tenho um gato chamado Bruno
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
