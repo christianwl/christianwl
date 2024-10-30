@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!🐻;)](https://git.io/typing-svg)
  
-<table align="center" style="border: none; border-collapse: collapse; width: 100%; border-spacing: 0;">
-  <tr style="border: none;">
-    <td style="width: 200px; vertical-align: middle; border: none; outline: none;">
-      <img height="200em" src="https://raw.githubusercontent.com/Christian-Rui/christian-rui/main/chris-octocat.png">
+<table align="center">
+  <tr>
+    <td>
+      <img width="200em" height="100%" src="https://raw.githubusercontent.com/Christian-Rui/christian-rui/main/chris-octocat.png">
     </td>
     <td style="vertical-align: middle; border: none; padding-left: 20px; outline: none;">
       <ul style="list-style: none; padding: 0; margin: 0;">
@@ -15,9 +15,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
