@@ -1,11 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!🐻;)](https://git.io/typing-svg)
+ 
+<table align="center" style="border: none; border-collapse: collapse; width: 100%; border-spacing: 0;">
+  <tr style="border: none;">
+    <td style="width: 200px; vertical-align: middle; border: none; outline: none;">
+      <img height="200em" src="https://raw.githubusercontent.com/Christian-Rui/christian-rui/main/chris-octocat.png">
+    </td>
+    <td style="vertical-align: middle; border: none; padding-left: 20px; outline: none;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>🌱 Atualmente aprendendo sobre desenvolvimento web</li>
+        <li>🎓 Tecnólogo em Jogos Digitais</li>
+        <li>🧑‍💻 Desenvolvedor Full Stack no projeto Buildar</li>
+        <li>⚡ Fato curioso: Tenho um gato chamado Bruno</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🌱 Atualmente aprendendo sobre desenvolvimento web
-- 🎓 Tecnologo em Jogos Digitais
-- 🧑‍💻Desenvolvedor Full Stack no projeto Buildar
-- ⚡ Fato curioso: Tenho um gato chamado Bruno
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
 
 <div align="center">
   <div>
@@ -18,7 +34,7 @@
   </div>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
