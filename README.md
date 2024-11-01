@@ -16,6 +16,15 @@
   </tr>
 </table>
 
+<div style="display:flex;flex-direction:row;justify-content:center;align-items:center;flex-wrap:wrap" >
+    <img width="200em" height="100%" src="https://raw.githubusercontent.com/Christian-Rui/christian-rui/main/chris-octocat.png">
+    <ul>
+      <li>🌱 Atualmente aprendendo sobre desenvolvimento web</li>
+      <li>🎓 Tecnólogo em Jogos Digitais </li>
+      <li>💻 Desenvolvedor Full Stack no projeto Buildar</li>
+      <li>⚡ Fato curioso: Tenho um gato chamado Bruno</li>
+    </ul>
+</div>
 
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
