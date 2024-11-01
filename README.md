@@ -19,7 +19,7 @@
 
 
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
@@ -49,23 +49,17 @@
   <img align="center" alt="Chris-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 </div>
           
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=130&section=footer"/>
 
-##
-<img align="left" alt="Chris-Bear" height="150" width="150" src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" />
-<table>
-  <tr>
-    <td> 
-      <a style="flex: 1;" href="https://www.linkedin.com/in/christian-neves-dev" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a style="flex: 1;" href="https://www.instagram.com/bearly_rui/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="Chris-Bear" height="150" width="150" src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-neves-dev" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/bearly_rui/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
