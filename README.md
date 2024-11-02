@@ -9,7 +9,7 @@
         <ul>
           <li>🌱 Atualmente aprendendo sobre desenvolvimento web</li>
           <li>🎓 Tecnólogo em Jogos Digitais</li>
-          <li>💻 Desenvolvedor Full Stack no projeto Buildar</li>
+          <li>💻 Desenvolvedor Full Stack no <a href="https://github.com/Projeto-Buildar" target="_blank">Projeto Buildar</a></li>
           <li>⚡ Fato curioso: Tenho um gato chamado Bruno</li>
         </ul>
       </td>
