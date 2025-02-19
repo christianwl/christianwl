@@ -75,4 +75,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/Christian-Rui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Christian-Rui/Christian-Rui/blob/output/github-contribution-grid-snake.svg)
