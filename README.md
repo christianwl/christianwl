@@ -58,8 +58,12 @@
 
 [![Projeto Buildar](https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Projeto-Buildar/buildar)
 
+---
+### Minhas Badges
+
+<img width="10%" src="./badgeChallengAS.png">
+
 </div>
-     
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=130&section=footer"/> -->
 
 <div align="center">
