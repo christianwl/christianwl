@@ -58,7 +58,7 @@
 ### Meus Principais Projetos
 
 <a href="https://github.com/Projeto-Buildar/buildar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&theme=tokyonight" />
 </a>
 <a href="https://github.com/PauloRhyanK/Hackathon-LABCN25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=tokyonight" />
