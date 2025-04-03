@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!🐻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!;)](https://git.io/typing-svg)
 
   <table align="center">
     <tr>
@@ -18,10 +18,11 @@
   </table>
 
 
-
+<!--
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
+-->
 
 <div align="center">
   <div>
@@ -47,7 +48,7 @@
   <img align="center" alt="Chris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Chris-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <img align="center" alt="Chris-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Chris-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <!-- <img align="center" alt="Chris-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" /> -->
 </div>
 
 
@@ -72,7 +73,7 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=130&section=footer"/> -->
 
 <div align="center">
-  <img alt="Chris-Bear" height="150" width="150" src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" />
+  <img alt="Chris-Bear" height="100" width="100" src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" />
 </div>
 
 <div align="center">
