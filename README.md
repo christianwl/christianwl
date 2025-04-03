@@ -56,8 +56,12 @@
 ---
 ### Meus Principais Projetos
 
-[![Projeto Buildar](https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Projeto-Buildar/buildar)
-[![Game - Guardiões da Terra](https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloRhyanK/Hackathon-LABCN25)
+<a href="https://github.com/Projeto-Buildar/buildar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&theme=tokyonight" />
+</a>
+<a href="https://github.com/PauloRhyanK/Hackathon-LABCN25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=tokyonight" />
+</a>
 
 ---
 ### Minhas Badges
