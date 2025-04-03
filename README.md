@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370db&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christian.;Sinta-se+à+vontade!;)](https://git.io/typing-svg)
 
   <table align="center">
     <tr>
@@ -27,10 +27,10 @@
 <div align="center">
   <div>
     <a href="https://github.com/christian-rui">
-      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=christian-rui&locale=pt-br&theme=tokyonight&show_icons=true&card_width=460" />  
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=christian-rui&locale=pt-br&theme=midnight-purple&show_icons=true&card_width=460" />  
     </a>
     <a href="https://github.com/christian-rui">
-      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-rui&locale=pt-br&theme=tokyonight&layout=compact&langs_count=6&card_width=310" />
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-rui&locale=pt-br&theme=midnight-purple&layout=compact&langs_count=6&card_width=310" />
     </a>
   </div>
 </div>
@@ -58,10 +58,10 @@
 ### Meus Principais Projetos
 
 <a href="https://github.com/Projeto-Buildar/buildar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&theme=midnight-purple" />
 </a>
 <a href="https://github.com/PauloRhyanK/Hackathon-LABCN25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=midnight-purple" />
 </a>
 
 ---
