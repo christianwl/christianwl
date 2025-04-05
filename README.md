@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&theme=midnight-purple" />
 </a>
 <a href="https://github.com/PauloRhyanK/Hackathon-LABCN25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&theme=midnight-purple&description_lines_count=3" />
 </a>
 
 ---
