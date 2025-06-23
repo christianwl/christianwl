@@ -3,7 +3,7 @@
   <table align="center">
     <tr>
       <td width="150" valign="middle">
-        <img src="https://raw.githubusercontent.com/Christian-Rui/christian-rui/main/chris-octocat.png" alt="Chris Octocat">
+        <img src="https://raw.githubusercontent.com/christianwl/christianwl/main/chris-octocat.png" alt="Chris Octocat">
       </td>
       <td valign="middle">
         <ul>
@@ -26,11 +26,11 @@
 
 <div align="center">
   <div>
-    <a href="https://github.com/christian-rui">
-      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=christian-rui&locale=pt-br&theme=midnight-purple&show_icons=true&card_width=460" />  
+    <a href="https://github.com/christianwl">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=christianwl&locale=pt-br&theme=midnight-purple&show_icons=true&card_width=460" />  
     </a>
-    <a href="https://github.com/christian-rui">
-      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-rui&locale=pt-br&theme=midnight-purple&layout=compact&langs_count=6&card_width=310" />
+    <a href="https://github.com/christianwl">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianwl&locale=pt-br&theme=midnight-purple&layout=compact&langs_count=6&card_width=310" />
     </a>
   </div>
 </div>
