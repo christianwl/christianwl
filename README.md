@@ -29,7 +29,7 @@
 
 <div align="center"><br>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" style="margin: 0 8px" alt="Java-icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java-icon" />
     <img width="8"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML-Icon" />
     <img width="8"/>
