@@ -77,6 +77,8 @@
   
   [<img src="./badges/badgeChallengAS.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/logica-programacao-challenge-amigo-secreto?lang=pt_BR)
   [<img src="./badges/Badge-Conversor.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/praticando-java-construindo-conversor-moedas?lang=pt_BR)
+  [<img src="./badges/Badge-Literalura.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-boot-challenge-literalura)
+  [<img src="./badges/Badge-Spring.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-framework-challenge-forum-hub)
 
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" alt="Emoji-Urso-Animado" width="10%" align="top" />
 </div>
