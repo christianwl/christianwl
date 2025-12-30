@@ -76,7 +76,7 @@
       <td width="420" align="center" valign="top">
         <h3>Buildar</h3>
         <a href="https://github.com/Projeto-Buildar/buildar">   
-          <img src="imgs/buildar-banner.png" width="300" height="100" style="object-fit: cover;" alt="Projeto Buildar" />
+          <img src="imgs/buildar-banner.png" style="width:300px; height:100px; overflow:hidden;" alt="Projeto Buildar" />
         </a>
       <p>
         Plataforma web gameficada que leva o desenvolvimento de soft skills para o próximo nível. 
@@ -85,7 +85,7 @@
       <td width="420" align="center" valign="top">
         <h3>Guardiões da terra</h3>
         <a href="https://github.com/PauloRhyanK/guardioes-da-terra">
-          <img src="imgs/cena-guardioes-da-terra.png" width="300" height="100" style="object-fit: cover;" alt="Hackathon LAB CN25" />
+          <img src="imgs/cena-guardioes-da-terra.png" style="width:300px; height:100px; overflow:hidden;" alt="Hackathon LAB CN25" />
         </a> 
         <p>
           Jogo educativo desenvolvido no Hackathon LAB do Cinema Nosso, com foco na conscientização ambiental. 
