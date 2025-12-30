@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-<img src="./imgs/chris-octocat.png" width="200" align="right" alt="Chris Octocat" >
+<!-- <img src="./imgs/chris-octocat.png" width="200" align="right" alt="Chris Octocat" > -->
 
 - 🐻 Meu apelido é _Bearly_.
 
@@ -14,18 +14,18 @@
 
 - 🚀 Cursando **Bacharelado em Tecnologia da Informação** na Univesp.
 
-- 🥇 ***[Buildar](https://github.com/Projeto-Buildar)*** - *Projeto Demoday* - Instituto Proa.
+- 🥇 **_[Buildar](https://github.com/Projeto-Buildar)_** - _Projeto Demoday_ - Instituto Proa.
 
-
-## Github Stats
+<!-- ## Github Stats
 
 <div align="center">
 
   [<img src="https://github-readme-stats.vercel.app/api?username=christianwl&locale=pt-br&bg_color=0b132b&title_color=9370db&icon_color=663399&text_color=e2fdff&show_icons=true&rank_icon=github&hide=stars,issues&card_width=460&line_height=40" height="170em" loading="lazy" />](https://github.com/christianwl)
   [<img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianwl&locale=pt-br&bg_color=0b132b&title_color=9370db&icon_color=663399&text_color=e2fdff&hide=shell&layout=compact" height="170em" loading="lazy" />](https://github.com/christianwl)
 
-</div>
+</div> -->
 
+## Habilidades técnicas
 
 <div align="center"><br>
   <div>
@@ -60,17 +60,40 @@
   </div>
 </div>
 
-
 ## Principais Projetos
 
-<div align="center">
+<!-- <div align="center">
 
   [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&bg_color=0b132b&title_color=9370db&icon_color=663399&text_color=e2fdff" align="center" />](https://github.com/Projeto-Buildar/buildar)
   [<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRhyanK&repo=Hackathon-LABCN25&&bg_color=0b132b&title_color=9370db&icon_color=663399&text_color=e2fdff&description_lines_count=3" align="center" />](https://github.com/PauloRhyanK/Hackathon-LABCN25)
 
   <img height="40" />
-</div>
+</div> -->
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="420" align="center" valign="top">
+        <h3>Buildar</h3>
+        <a href="https://github.com/Projeto-Buildar/buildar">   
+          <img src="imgs/buildar-banner.png" width="300" height="100" style="object-fit: cover;" alt="Projeto Buildar" />
+        </a>
+      <p>
+        Plataforma web gameficada que leva o desenvolvimento de soft skills para o próximo nível. 
+      </p>
+      </td>
+      <td width="420" align="center" valign="top">
+        <h3>Guardiões da terra</h3>
+        <a href="https://github.com/PauloRhyanK/guardioes-da-terra">
+          <img src="imgs/cena-guardioes-da-terra.png" width="300" height="100" style="object-fit: cover;" alt="Hackathon LAB CN25" />
+        </a> 
+        <p>
+          Jogo educativo desenvolvido no Hackathon LAB do Cinema Nosso, com foco na conscientização ambiental. 
+        </p> 
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9370db&height=130&section=header&text=Certificados&fontSize=24&fontColor=e2fdff&fontAlignY=35" /> 
@@ -83,10 +106,8 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" alt="Emoji-Urso-Animado" width="10%" align="top" />
 </div>
 
-
 ## Contatos
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christianwilliam-dev)
 [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bearly_rui/)
 [<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/ChristianWDev)
-<!-- teste -->
