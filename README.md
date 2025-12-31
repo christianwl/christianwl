@@ -76,7 +76,7 @@
       <td width="420" align="center" valign="top">
         <h3>Buildar</h3>
         <a href="https://github.com/Projeto-Buildar/buildar">   
-          <img src="imgs/buildar-banner.png" style="width:300px; height:100px; overflow:hidden;" alt="Projeto Buildar" />
+          <img src="./imgs/banners/buildar-banner.png" style="width:300px; height:100px; overflow:hidden;" alt="Projeto Buildar" />
         </a>
       <p>
         Plataforma web gameficada que leva o desenvolvimento de soft skills para o próximo nível. 
@@ -85,7 +85,7 @@
       <td width="420" align="center" valign="top">
         <h3>Guardiões da terra</h3>
         <a href="https://github.com/PauloRhyanK/guardioes-da-terra">
-          <img src="imgs/cena-guardioes-da-terra.png" style="width:300px; height:100px; overflow:hidden;" alt="Hackathon LAB CN25" />
+          <img src="./imgs/banners/cena-guardioes-da-terra.png" style="width:300px; height:100px; overflow:hidden;" alt="Hackathon LAB CN25" />
         </a> 
         <p>
           Jogo educativo desenvolvido no Hackathon LAB do Cinema Nosso, com foco na conscientização ambiental. 
@@ -98,10 +98,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9370db&height=130&section=header&text=Certificados&fontSize=24&fontColor=e2fdff&fontAlignY=35" /> 
   
-  [<img src="./badges/badgeChallengAS.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/logica-programacao-challenge-amigo-secreto?lang=pt_BR)
-  [<img src="./badges/Badge-Conversor.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/praticando-java-construindo-conversor-moedas?lang=pt_BR)
-  [<img src="./badges/Badge-Literalura.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-boot-challenge-literalura)
-  [<img src="./badges/Badge-Spring.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-framework-challenge-forum-hub)
+  [<img src="./imgs/badges/badgeChallengAS.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/logica-programacao-challenge-amigo-secreto?lang=pt_BR)
+  [<img src="./imgs/badges/Badge-Conversor.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/praticando-java-construindo-conversor-moedas?lang=pt_BR)
+  [<img src="./imgs/badges/Badge-Literalura.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-boot-challenge-literalura)
+  [<img src="./imgs/badges/Badge-Spring.png" width="10%" align="top">](https://cursos.alura.com.br/certificate/christianwill/spring-framework-challenge-forum-hub)
+  [<img src="./imgs/badges/OCI25FNDCFA.png" width="10%" align="top">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5D60CB3481E502A8DDB51CFB3B8CCD5D0674970B698AC70200BDDB772F8720A9)
 
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/bear_1f43b.png" alt="Emoji-Urso-Animado" width="10%" align="top" />
 </div>
